@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="app_laeblea">Квадратное уравнение</string>
+    <string name="labelOnMane">Введите значения уравнения \n ax^{2}+bx+c=0</string>
+</resources>
